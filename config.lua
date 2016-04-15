@@ -3,7 +3,7 @@ return {
 	-- Your authorization token from the botfather.
 	bot_api_key = '',
 	-- Your Telegram ID.
-	admin = '',
+	admin = '179071599',
 	-- Differences, in seconds, between your time and UTC.
 	time_offset = 0,
 	-- Two-letter language code.
