@@ -5,7 +5,7 @@ return {
 	-- Your Telegram ID.
 	admin = '179071599',
 	-- Differences, in seconds, between your time and UTC.
-	time_offset = 0,
+	time_offset = 2,
 	-- Two-letter language code.
 	lang = 'en',
 	-- The channel, group, or user to send error reports to.
