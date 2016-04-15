@@ -1,7 +1,7 @@
 return {
 
 	-- Your authorization token from the botfather.
-	bot_api_key = '',
+	bot_api_key = '207507960:AAFZAntBW82VRfIR_YNr_Pgpd4WOhdbba9Y',
 	-- Your Telegram ID.
 	admin = '179071599',
 	-- Differences, in seconds, between your time and UTC.
